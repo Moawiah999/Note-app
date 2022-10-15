@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185980528485",
+    "project_id": "third-application-notes",
+    "storage_bucket": "third-application-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185980528485:android:9658ff9c9a109aab52e38c",
+        "android_client_info": {
+          "package_name": "com.example.secandnoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185980528485-i78i16smkupprp4b21tm7autsj4skt7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-winVtnLzfYc2NXE6J-D2nNGpLo_Wosk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185980528485-i78i16smkupprp4b21tm7autsj4skt7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
